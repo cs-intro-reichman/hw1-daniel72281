@@ -14,6 +14,7 @@ public class Ascend {
 		int min = Math.min(Math.min(randomInt2, randomInt3),randomInt1);
 		int middle = randomInt1 + randomInt2 + randomInt3 - max - min;
 		System.out.println("the ascending order of int " + min + " " + middle +" " +max );
+		
 
 	
 	}
