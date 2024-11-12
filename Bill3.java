@@ -8,7 +8,7 @@ public class Bill3 {
 		// converted the bill to double 
 		double bill = Double.parseDouble(args[3]) / 3.0;
 		bill = Math.ceil(bill);
-	    System.out.println("Dear "  + name1 + " " + name2 +" " +name3 + ": pay " + 
+	    System.out.println("Dear "  + name1 + ", " + name2 + ", and " +name3 + ": pay " + 
 				bill + " Shekels each.  ");
 		
 
