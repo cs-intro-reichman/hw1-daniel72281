@@ -9,7 +9,7 @@ public class NumWords {
 		int ones = a%10;
 		  //created a string and implemented inside the calc
 		System.out.println(hundreds + " hundreds, " + tens +
-		 " tens, " + ones + " ones. ");
+		 " tens, and " + ones + " ones. ");
 			    
 	}
 }
